@@ -1,0 +1,11 @@
+{
+  "name": "TestApp",
+  "description": "Simple Test App",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "~4.4.3",
+    "request": "~2.36.0",
+    "body-parser": "~1.5.2"
+  }
+}
